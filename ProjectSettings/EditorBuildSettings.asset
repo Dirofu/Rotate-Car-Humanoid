@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/RotateObject.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
+    path: Assets/Scenes/Car.unity
+    guid: e9e8f4d0e63439742a5f4e585995d3db
+  - enabled: 1
     path: Assets/Scenes/Humanoid.unity
     guid: 4f4e9465dd0e0dd46b8e632ece32a855
   m_configObjects: {}
